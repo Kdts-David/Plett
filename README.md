@@ -4,11 +4,9 @@ Interactive demonstration of a driver learning portal for R R Plett Trucking.
 
 ## Try it
 
-[Open the live demo](https://kdts-david.github.io/Plett/).
+[Open the live demo](https://kdts-david.github.io/Plett/). Choose **Start course** or **Resume course** to try a course, or switch the header dropdown to **Safety admin** to explore sample assignments and reporting.
 
-Choose **Continue learning** to try a course, or switch the header dropdown to **Safety admin** to explore sample assignments and reporting.
-
-Includes five sample courses, lesson progression, a quiz and acknowledgement, local progress, sample training records, and CSV exports.
+Includes prioritized required training, sample due dates, five courses, saved lesson position, a completion checklist, mobile lesson controls, Safety search and filters, group assignments, and CSV exports.
 
 ## Demo only
 
@@ -16,6 +14,6 @@ All learner identities, deadlines, assignments, and records are fictional. Lesso
 
 ## Hosting
 
-This package is self-contained and hosted with GitHub Pages from the main branch at / (root). No build tools, dependencies, or sign-in are needed to view the demo.
+This package is self-contained: publish the main branch from / (root) in Settings → Pages. No build tools, dependencies, or sign-in are needed to view the demo.
 
 The supplied company imagery is included for this project demonstration. No license is granted to third parties.
